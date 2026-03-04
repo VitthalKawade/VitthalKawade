@@ -9,7 +9,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
+  <a href="mailto:kawadevitthal32@gmail.COM">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/iam_adi29">
@@ -114,7 +114,7 @@ I’m *Adityaraj Patil*, a passionate Full Stack Developer, Mentor, and Technica
 
   
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="VitthalKawade's GitHub Streak" />
 </div>
 
 <br>
